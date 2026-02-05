@@ -1,1 +1,2 @@
-print("hello world")
+print("Setup Complete!")
+print("Current Python Version:", sys.version)
