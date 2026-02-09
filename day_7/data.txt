@@ -1,0 +1,5 @@
+good morning.
+ good morning.
+ This line is appended using append mode.
+ File handling is easy in python,
+ name:sony , age:20
