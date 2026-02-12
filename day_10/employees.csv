@@ -1,0 +1,14 @@
+EmployeeID,Name,Department,YearsExperience,Salary
+1,John,IT,5,70000
+2,Jane,HR,8,80000
+3,Mike,Finance,2,60000
+4,Emily,IT,6,75000
+5,David,HR,10,90000
+6,Sarah,Finance,4,65000
+7,Chris,IT,,72000
+8,Anna,HR,7,
+9,James,Finance,3,62000
+10,Laura,IT,5,70000
+10,Laura,IT,5,70000
+11,Tom,HR,,160000
+12,Sophia,Finance,3,65000

@@ -1,0 +1,10 @@
+OrderID,CustomerName,Product,Quantity,Price,OrderDate
+1,Sony,Laptop,1,75000,2025-01-10
+2,Bushra,Mobile,1,45000,2025-01-12
+,Sahil,Headphones,2,3000,2025-01-15
+4,Veda,Watch,,5000,2025-01-18
+5,Manasa,Shoes,1,,2025-01-20
+6,Poornima,Bag,2,2000,2025-01-22
+7,Akash,Tablet,1,40000,2025-01-25
+2,Bushra,Mobile,1,45000,2025-01-12
+,Sahil,Headphones,2,3000,2025-01-15
